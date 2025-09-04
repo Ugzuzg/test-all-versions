@@ -15,6 +15,7 @@
     "js-yaml": "^4.1.0",
     "log-symbols": "^4.1.0",
     "minimist": "^1.2.8",
+    "npm-package-arg": "^13.0.0",
     "npm-package-versions": "^2.0.3",
     "once": "^1.4.0",
     "parse-env-string": "^1.0.1",
